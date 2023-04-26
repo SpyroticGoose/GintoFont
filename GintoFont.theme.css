@@ -1,0 +1,82 @@
+/**
+* @name GintoDiscordFont
+* @author Spyros#2648
+* @description Discord changed their font recently, this will change it back to the old one. The only downside is that the italic text will not work
+* @version 0.0.1
+* @source https://github.com/TypekitMapping/GintoFont
+*/
+
+:root {
+    --font-primary: ".", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-display: ".", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/TypekitMapping/GintoFont@main/500.woff") format("woff");
+}
