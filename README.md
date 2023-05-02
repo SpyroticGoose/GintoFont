@@ -15,7 +15,7 @@
 <div align="left">
     <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
-    <br/>Copy <code>https://raw.githubusercontent.com/TypekitMapping/GintoFont/main/GintoFont.theme.css</code> into the box in User Settings > Themes > Themes tab </p>
+    <br/>Copy <code>https://raw.githubusercontent.com/TypekitMapping/GintoFont/main/GintoFontTheme.theme.css</code> into the box in User Settings > Themes > Themes tab </p>
 </div><br/>
 
 **And that's it!**
